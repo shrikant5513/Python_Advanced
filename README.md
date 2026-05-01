@@ -1,17 +1,4 @@
-# Python for Data Domain - Advanced Tutorial
-
-A comprehensive tutorial covering advanced Python concepts and techniques essential for data professionals. This course goes beyond the fundamentals to equip you with industry-standard practices in object-oriented programming, asynchronous operations, testing, and data handling.
-
-## Full YouTube Tutorial: 
-- https://youtu.be/M-UtKxgtKag?si=JKqncawI92fa18aL
-
-## 📚 Course Overview
-
-This tutorial is structured into 9 chapters, each focusing on critical Python concepts that are crucial for data engineers, data scientists, and backend developers working with data-heavy applications.
-
-**Target Audience:** Intermediate Python developers with foundational knowledge who want to level up their skills for data-centric projects.
-
-**Prerequisites:** Basic understanding of Python syntax, data types, and control flow.
+# Python for Data Domain
 
 ## 📋 Table of Contents
 
